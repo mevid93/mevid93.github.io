@@ -1,11 +1,6 @@
-## Nice to know
-
-87% of young people have back pain. The other 13% have no computer.
-
-### Some code
 
 ```java
-public class mevid93{
+public class Hello{
 
      public static void main(String []args){
          
@@ -14,7 +9,3 @@ public class mevid93{
      }
 }
 ```
-
-### Whats happening
-
-[Today's news](https://9gag.com) 
